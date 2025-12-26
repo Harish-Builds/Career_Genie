@@ -30,6 +30,7 @@ The application provides a simple interface to **add, store, and manage resume d
 ## 📂 Project Structure
 
 Career_Genie/
+
 │
 ├── main.py # Backend application logic
 
