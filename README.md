@@ -22,8 +22,8 @@ The application provides a simple interface to **add, store, and manage resume d
 | Backend | Python |
 | Frontend | HTML |
 | Database | SQL |
-| Server | Python-based server |
-| Deployment | Vercel (Frontend) |
+| Server | Wamp server |
+| Deployment | localhost:3000 |
 
 ---
 
