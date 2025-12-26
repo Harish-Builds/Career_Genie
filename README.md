@@ -32,10 +32,15 @@ The application provides a simple interface to **add, store, and manage resume d
 Career_Genie/
 │
 ├── main.py # Backend application logic
+
 ├── add_resume.html # Resume submission page
+
 ├── userhome.html # User dashboard page
+
 ├── career_genie.sql # Database schema
+
 ├── logo.png # Application logo
+
 ├── README.md # Project documentation
 
 ---
